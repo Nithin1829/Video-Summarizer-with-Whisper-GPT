@@ -109,8 +109,8 @@ npm run build
 
 ## 📸 Screenshots
 
-![Upload UI](docs/upload.png)
-![Summary Display](docs/summary.png)
+![Upload UI](Ui.png)
+![Summary Display](Result.png)
 
 ---
 
