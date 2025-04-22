@@ -126,7 +126,6 @@ npm run build
 ## 👨‍💻 Authors
 
 - **Nithin** — Backend & Frontend Integration
-- **ChatGPT** — Guidance & Deployment Support 😄
 
 ---
 
