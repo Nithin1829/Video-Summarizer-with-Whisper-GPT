@@ -1,0 +1,6 @@
+Flask
+flask-cors
+moviepy
+whisper
+openai
+python-dotenv
