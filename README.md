@@ -1,4 +1,4 @@
-# 🎥 Handspeak AI – Video Summarizer with Whisper + GPT
+# Video Summarizer with Whisper + GPT
 
 A full-stack AI-powered web application that allows users to upload meeting videos, extract transcripts using OpenAI Whisper, and generate concise summaries using GPT-3.5. Built with a Flask backend and a React frontend.
 
